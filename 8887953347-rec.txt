@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2020-10-31] [11:39:36]       5000              5000
